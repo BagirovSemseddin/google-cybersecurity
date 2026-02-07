@@ -18,10 +18,6 @@ Each course includes:
 This repository is for educational and documentation purposes only.
 No offensive security tools, exploits, or real-world attack instructions are included.
 
-## Current Status
-- Course 1: Foundations of Cybersecurity – completed
-- Course 2: Play It Safe – Managing Security Risks (in progress)
-
 ## Skills Developed
 - Security risk identification and prioritization
 - Basic SOC workflow understanding
@@ -30,3 +26,8 @@ No offensive security tools, exploits, or real-world attack instructions are inc
 
 ## How This Translates to Real-World SOC Work
 This repository reflects hands-on learning aligned with entry-level SOC Analyst responsibilities such as monitoring alerts, understanding risk impact, and supporting incident response processes.
+
+## Current Status
+- Course 1: Foundations of Cybersecurity – completed
+- Course 2: Play It Safe – Managing Security Risks - completed
+- Course 3: Connect and Protect: Networks and Network Security ( in progress )
