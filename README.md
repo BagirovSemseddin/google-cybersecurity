@@ -30,4 +30,5 @@ This repository reflects hands-on learning aligned with entry-level SOC Analyst 
 ## Current Status
 - Course 1: Foundations of Cybersecurity – completed
 - Course 2: Play It Safe – Managing Security Risks - completed
-- Course 3: Connect and Protect: Networks and Network Security ( in progress )
+- Course 3: Connect and Protect: Networks and Network Security - completed
+- Course 4: Tools of the Trade: Linux and SQL ( in progress )
